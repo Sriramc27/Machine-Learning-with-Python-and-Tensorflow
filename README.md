@@ -1,0 +1,1 @@
+Built a Linear Regression Model for Titanic survival prediction (74% accuracy), DNNClassifier for flower species classification (93% accuracy), Hidden Markov Model for weather patterns using TensorFlow estimators, and a basic neural network using TensorFlow/Keras for classifying the MNIST Fashion dataset.
